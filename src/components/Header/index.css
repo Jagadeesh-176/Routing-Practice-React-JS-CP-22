@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.header-nav {
+  display: flex;
+  justify-content: space-between;
+}
+.logo-con {
+  display: flex;
+}
+.logo {
+  height: 5vh;
+  width: 5vw;
+}
+.logo-label {
+  font-size: 24px;
+}
+.sec-con {
+  display: flex;
+}
+.un-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+.list-item {
+  margin: 12px;
+  font-weight: bold;
+}
